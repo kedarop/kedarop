@@ -15,6 +15,8 @@
 
 - 👨‍💻 My Start-up [www.ownerzy.com](www.ownerzy.com)
 
+- 🌐 My Other website [www.freezystock.com](www.freezystock.com)
+
 - 💬 Ask me about **Webdev, Python, CV, TensorFlow, PyTorch**
 
 - 📫 How to reach me **kedargughane4@gmail.com**
