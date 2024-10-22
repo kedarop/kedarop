@@ -17,7 +17,7 @@
 
 - 🌐 My Other website [www.freezystock.com](www.freezystock.com)
 
-- 💬 Ask me about **Webdev, Python, CV, TensorFlow, PyTorch**
+- 💬 Ask me about **Webdev, Python, CV, TensorFlow, PyTorch, React, VanillaJS**
 
 - 📫 How to reach me **kedargughane4@gmail.com**
 
